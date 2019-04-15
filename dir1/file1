@@ -1,0 +1,15 @@
+p - paste
+5yy - 5 lines copy
+u - undo
+dw - delete word
+x - char delete
+o - below couser new line
+O- above " "
+a - append
+$ - end of the line
+H - head
+G - ground
+r - replace single char
+R - .......... replace
+yw -- copy word
+3yw  -- 3 word's copy
